@@ -11,3 +11,6 @@ Automated data engineering scripts built with **Python (`pandas` & `openpyxl`)**
 ### 2. `sales_merger.py`
 * **Purpose:** Consolidates fragmented monthly e-commerce CSV exports into a single master report.
 * **Features:** Merges multiple files, removes duplicate order IDs, casts text-formatted currency strings into native numeric accounting formats (`$#,##0.00`), and auto-adjusts layout dimensions.
+
+## Notion
+* **https://pinnate-citron-d66.notion.site/Arthur-Mousinho-Python-Data-Cleaning-Excel-Automation-423ea7dfd02580a799facc69577871e0?source=copy_link**
